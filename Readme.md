@@ -122,3 +122,22 @@ Response Body (failed) :
   "message": "KTP tidak ditemukan"
 }
 ```
+
+
+
+Tampilan Web
+Halaman Utama
+<img width="1918" height="1018" alt="halaman utama" src="https://github.com/user-attachments/assets/4eb2eb5d-5cc5-4fec-9f32-2de0cb8bc6af" />
+
+
+Tambah Data KTP
+<img width="1917" height="1013" alt="create data KTP" src="https://github.com/user-attachments/assets/6b6192b1-0f0f-4dea-936a-c269c4e2fc8c" />
+
+
+
+Edit Data KTP
+<img width="1919" height="1018" alt="Update data KTP" src="https://github.com/user-attachments/assets/9e8b1ba6-0866-4b74-90d0-f68fb91c25c9" />
+
+
+Hapus Data KTP
+<img width="1918" height="1017" alt="delete data ktp" src="https://github.com/user-attachments/assets/f87f0e89-ab0b-49a5-a560-3eff259feb35" />
